@@ -1,10 +1,8 @@
-# EXERCÍCIO EXTRA DE GRAFOS - T02
+# GRAFOS
 
-### DATA DE ENTREGA 27-02-2023
-### ALUNO: ANDERSON COSTA MOREIRA SANTANA
-### MAT: 201600154570
+### ANDERSON MOREIRA
 
-**ATIVIDADE**
+**EXERCÍCIO**
 
 
 1. Implementação de funções básicas para manipulação de grafos: criar grafo, inserir arestas, inserir vértices, remover arestas, remover vértices, determinar o grau de um vértice, determinar se dois vértices são vizinhos, determinar se o grafo tem ciclo euleriano.
